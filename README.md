@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harmeet03
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning C, HTML, CSS and JS
+- 🌱 I’m currently making a project on e-commerce website using full-stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email: hsdhanjal2003@gmail.com
 
